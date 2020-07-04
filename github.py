@@ -49,8 +49,8 @@ projectName = str(input("Enter the project name:"))
 
 createFolder(projectLocation, projectName)
 
-username = 'sahilchhillar'
-password = '95402sahil'
+username = '<username>'
+password = '<password>'
 repoName = str(input("Enter the repository name:"))
 
 browseGit(username, password, repoName)
